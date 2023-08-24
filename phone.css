@@ -1,0 +1,110 @@
+.logo1{
+    height: 3cm;
+    width: 1cm;
+    align-items: center;
+    
+    
+
+}    
+.logo2{
+    color: green;
+    padding-right: 1%;
+align-items: center;
+
+    
+}
+.logo3{
+    color: aliceblue;
+    
+    font-size: 10px;
+    padding-right: 1cm;
+    align-items: center;
+    
+}
+.logo4{
+    color: navajowhite;
+    font-size: 20px;
+    padding-right: 3cm;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+}
+.middle{
+    
+    left: 250px;
+
+
+}
+
+.right{
+    
+    margin-top: 1.2%;
+    margin-left: 7%;
+
+}
+.logo5{
+    display: inline-block;
+    margin-top: 0px;
+
+}
+.logo5 li{
+    display: inline-block;
+    
+}
+
+.logo5 li  a{
+    display: inline-block;
+    color: white;
+padding: 5px 5px;
+
+
+}
+.logo5 li a:hover,.logo5 li a.active{
+  
+    text-decoration: unset;
+    color: #f50404;
+
+}
+.logo7{
+
+    color:deep black;
+    background-color: aquamarine;
+
+}
+
+.logo8{
+color: #CE33FF;
+background-color: black;
+
+}
+.contain{
+border: solid gold;
+
+align-items: center;
+height: 2cm;
+width: 1cm;
+margin-top: 20px;
+background-color: transparent;
+
+}
+.contain input{
+width: 2cm;
+display: flexbox;
+align-items: center;
+background-color: transparent;
+
+} 
+.contain ::placeholder{
+color: blueviolet;
+}
+.bn{
+color: aliceblue;
+}
+
+.contain p{
+color: #f50404;
+}
+
+
